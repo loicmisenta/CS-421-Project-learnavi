@@ -1,0 +1,7 @@
+method_a,method_b,adjusted_rand
+kmeans_eucl,spectral_eucl,0.8843062790472516
+kmeans_eucl,kmeans_flat,0.31507484937348423
+kmeans_flat,spectral_eucl,0.3082714189133375
+kmeans_flat,spectral_agg,0.016258260005547687
+kmeans_eucl,spectral_agg,0.0027383172762437307
+spectral_agg,spectral_eucl,0.002695501915849047

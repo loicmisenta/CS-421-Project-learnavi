@@ -1,0 +1,89 @@
+,gain
+class_year,8020.535484451422
+n_active_days_0_2,6386.712394556735
+mean_hour_0_2,6326.9315684295
+review_rate_0_2,3902.915256470442
+canton_SG,3759.0272509930073
+avg_response_time_0_2,3463.2621478438377
+session_duration_mean_0_2,3040.4891853191693
+time_between_sessions_mean_0_2,2970.224273922242
+std_hour_0_2,2966.9277153541843
+mean_evaluation_score_0_2,2742.346884208608
+partial_rate_0_2,2581.625958116653
+retry_ratio_0_2,2562.6836448705
+std_response_time_0_2,2520.5836724930523
+n_view_events_0_2,2174.835452354915
+study,2033.1396086215973
+session_duration_std_0_2,2026.3556195307756
+correct_rate_0_2,1909.3587559317602
+std_evaluation_score_0_2,1879.8223516119558
+n_click_events_0_2,1760.3345017213687
+total_transactions_0_2,1679.974149380345
+n_documents_0_2,1515.6974425668463
+total_events_0_2,1505.7432665893575
+n_sessions_0_2,1216.6484794802964
+school_Kurzzeitgymnasium,968.4688269003527
+canton_AG,938.3583534359932
+canton_BS,916.675864636898
+school_Gymnasium,795.8391590118408
+canton_ZH,784.438679933548
+canton_BL,740.9902757108212
+n_topics_event_0_2,731.5159080028534
+school_WMS,716.8535397052765
+n_topics_transaction_0_2,680.9145202166308
+canton_AR,628.6310132145882
+school_FMS,426.6174293756485
+canton_SO,425.2916690707207
+canton_SZ,402.56594932079315
+school_Langzeitgymnasium,399.16502130031586
+canton_BE,343.7710897922516
+gender_MALE,335.56590670347214
+gender_Unknown,256.5285601615906
+school_6. Klasse LG,239.74611043930054
+school_5. Klasse LG,238.6581301689148
+school_ISME (Matura),216.72099828720093
+canton_LU,172.589519739151
+school_4. Klasse LG,135.0044640302658
+school_KME Vollzeit,126.27196884155273
+gender_FEMALE,117.59817850189938
+school_IMS,113.02330511808395
+canton_FL,104.16502070426941
+canton_SH,99.62008929252625
+canton_Unknown,77.25818943977356
+gender_Other,69.94846987724304
+school_andere,48.616039514541626
+school_ISME,44.60202592611313
+school_UG,43.413689851760864
+school_KME Teilzeit,16.491239845752716
+school_Keine Angabe,14.788418024778366
+canton_FR,14.760639905929565
+school_HMS,12.235480070114136
+school_FM,11.330090045928955
+canton_Andere,4.884250164031982
+school_Liceo Artistico,3.5743000507354736
+canton_VS,0.0
+canton_ZG,0.0
+canton_AI,0.0
+canton_GL,0.0
+canton_GR,0.0
+canton_JU,0.0
+canton_VD,0.0
+canton_NE,0.0
+canton_TG,0.0
+canton_UR,0.0
+school_3. Klasse LG,0.0
+school_2. Klasse LG,0.0
+school_Fachmaturität Pädagogik,0.0
+school_K+S,0.0
+school_BME,0.0
+school_7. Klasse LG,0.0
+school_BME (Matura),0.0
+school_FM (Fachmaturität),0.0
+school_KME Passerelle,0.0
+school_Maturität für Erwachsene,0.0
+school_Passerelle,0.0
+school_Passerelle BM/FM,0.0
+school_Unknown,0.0
+school_Sekundarschule P,0.0
+school_Vorkurs Pädagogik,0.0
+school_Vorkurs PH für Berufsleute,0.0

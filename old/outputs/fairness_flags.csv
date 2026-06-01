@@ -1,0 +1,9 @@
+cluster_spectral_eucl,attribute,group,n_rows,n_unique_users,dropout_point_rate,cluster_rate,rate_gap_vs_cluster,disparity_ratio_vs_cluster,interpretation_note
+0,education_level,Primary_LowerSec,47,28,0.3829787234042553,0.5360178970917227,-0.15303917368746733,0.7144886868184562,Small unique-user support: interpret cautiously
+0,school_type,Secondary,47,28,0.3829787234042553,0.5360178970917227,-0.15303917368746733,0.7144886868184562,Small unique-user support: interpret cautiously
+3,gender,Unknown,138,111,0.32608695652173914,0.4171779141104294,-0.09109095758869029,0.7816496163682864,Unknown category: interpret mainly as missingness / data-quality signal
+1,gender,Unknown,103,82,0.34951456310679613,0.44339622641509435,-0.09388166330829822,0.7882668870068168,Unknown category: interpret mainly as missingness / data-quality signal
+3,school_type,Unknown,149,121,0.3288590604026846,0.4171779141104294,-0.08831885370774484,0.7882945124358469,Unknown category: interpret mainly as missingness / data-quality signal
+2,school_type,Other,32,32,0.625,0.48599670510708404,0.13900329489291596,1.2860169491525424,
+3,education_level,Tertiary_Apprentice,157,127,0.554140127388535,0.4171779141104294,0.1369622132781056,1.3283064818284003,
+3,school_type,Vocational,157,127,0.554140127388535,0.4171779141104294,0.1369622132781056,1.3283064818284003,
