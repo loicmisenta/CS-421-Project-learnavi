@@ -1,4 +1,4 @@
 data/*
 .DS_Store
 outputs/*
-_pycache__/
+__pycache__/
