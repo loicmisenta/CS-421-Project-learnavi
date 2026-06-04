@@ -1,6 +1,6 @@
 # Lernnavi Disengagement Prediction
 
-This repository contains the code and [report](./final_report_ML4BD.pdf) for a machine learning project on learner disengagement prediction on **Lernnavi**, a Swiss high-school practice platform. Unlike standard MOOCs, Lernnavi has no fixed course structure, no completion label, and no common end date. For this reason, disengagement cannot be modeled as simple course dropout. Instead, we define disengagement through platform activity patterns and study it with a two-stage prediction pipeline.
+This repository contains the code and [report](./Report.pdf) for a machine learning project on learner disengagement prediction on **Lernnavi**, a Swiss high-school practice platform. Unlike standard MOOCs, Lernnavi has no fixed course structure, no completion label, and no common end date. For this reason, disengagement cannot be modeled as simple course dropout. Instead, we define disengagement through platform activity patterns and study it with a two-stage prediction pipeline.
 
 ## Project Overview
 
