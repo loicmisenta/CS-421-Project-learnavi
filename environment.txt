@@ -1,0 +1,12 @@
+jupyter
+notebook
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+lightgbm
+torch
+imbalanced-learn
